@@ -1,0 +1,173 @@
+
+.tom{
+    margin-top: 200px;
+    margin-left: -180px;
+}
+.tooc{
+    margin-left: 750px;
+    margin-top: -500px;
+}
+.tooc1{
+    margin-left: 850px;
+    margin-top: -600px;
+}
+.fot{
+    text-align: center;
+    margin-top: 200px;
+    margin-left: -100px;
+}
+.boy1{
+    margin-left: 410px;
+    margin-top: -310px;
+}
+.boy2{
+    margin-left: 800px;
+    margin-top: -310px;
+}
+.boy{
+    margin-left: 20px;
+}
+.vivo{
+    width: 1600px;
+    position: absolute;
+    margin-left: -200px;
+}
+.han{
+    margin-left: 600px;
+    margin-top: -300px;
+}
+.bod{
+    text-align: center;
+    margin-top: 350px;
+    margin-left: -100px;
+}
+.many{
+    margin-left: 350px;
+}
+.bmw{
+    margin-left: -200px;
+    margin-top: -130px;
+}
+.jek{
+    margin-left: 200px;
+    margin-top: -100px;
+}
+.set{
+    margin-left: -110px;
+    margin-top: 190px;
+}
+.li{
+    margin-top: 200px;
+}
+.set1{
+    margin-left: -110px;
+    margin-top: 270px;
+}
+.li1{
+    margin-top: 270px;
+}
+.many{
+    margin-left: 350px;
+}
+.bmw{
+    margin-left: -200px;
+    margin-top: 400px;
+}
+.jek{
+    margin-left: 200px;
+    margin-top: 300px;
+}
+.cook{
+    margin-top: 220px;
+    margin-left: -50px;
+}
+.vijo{
+    margin-left: 10px;
+}
+body{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: white;
+}
+.navbar-menu{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.navbar-item{
+    display: inline-block;
+    padding: 24px 10px;
+    margin-right: 5px;
+}
+.navbar-item a{
+    text-decoration: none;
+    color: grey;
+}
+.navbar-item1{
+    display: flex;
+    margin-right: 200px;
+    width: 20px;
+    height: 20px;
+}
+.navbar-item:hover a{
+    color: grey;
+}
+.navbar-item:hover{
+    background-color: whitesmoke;
+}
+.navbar-item:after{
+    content: '';
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    background-image: url("../rasmlar/down-arrow.svg");
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: center  center;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+.navbar-item{
+    position: relative;
+}
+.drop-menu{
+    position: absolute;
+    left: 0;
+    top: 100%;
+    margin: 0;
+    padding: 0;
+    width: 120px;
+    background-color: whitesmoke;
+    display: none ;
+}
+.navbar-item:hover .drop-menu{
+    display: block;
+}
+.good{
+    width: 150px;
+    height: 100px;
+    margin-bottom: -85px;
+}
+.zex{
+    margin-top: 50px;
+    margin-left: -150px;
+    background-color: rgb(17, 17, 81);
+}
+.der{
+    margin-top: 280px;
+    margin-left: -150px;
+}
+.der2{
+    margin-top: 280px;
+    margin-left: 10px;
+}
+.der3{
+    margin-top: 280px;
+    margin-left: 10px;
+}
+.lol{
+    margin-left: 20px;
+}

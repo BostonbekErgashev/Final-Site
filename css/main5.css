@@ -1,0 +1,40 @@
+.box{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.navbar-item{
+    /*border: 1px solid gainsboro;*/
+    /*padding: 10px 20px;*/
+    text-align: center;
+    display: inline-block;
+}
+.navbar-item a{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    background-color: whitesmoke;
+    color: black;
+}
+.navbar-item:hover a{
+    color:white;
+    background-color: midnightblue;
+}
+.img {
+    margin-top: 30px;
+    display: inline-block;
+}
+.bos{
+    margin-top: 50px;
+}
+.btn{
+    padding: 15px 80px;
+    text-decoration: none;
+    color: black;
+    background-color: whitesmoke;
+    border: 2px solid darkgray;
+    border-radius: 5px;
+}
+

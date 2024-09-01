@@ -1,0 +1,195 @@
+.com{
+    text-align: center;
+}
+img{
+    margin-left: 100px;
+    border-radius: 50%;
+}
+.rasm{
+    width: 120px;
+    height: 120px;
+    border-radius: 200%;
+    margin-bottom: -5px;
+    margin-left: 150px;
+}
+.wrap{
+    margin-left: 350px;
+}
+.btn{
+    display: inline-block;
+    padding: 40px 100px ;
+    text-decoration: none;
+    color: white;
+    border-radius: 50px;
+    width: 150px;
+    text-align: center;
+    background-color: blue;
+    font-size: 30px;
+    margin-left: -180px;
+}
+.btn2{
+    display: inline-block;
+    padding: 40px 100px ;
+    text-decoration: none;
+    color: white;
+    border-radius: 50px;
+    margin-left: 60px;
+    width: 150px;
+    text-align: center;
+    background-color: lightgreen;
+    font-size: 30px;
+}
+.btn3{
+    display: inline-block;
+    padding: 40px 100px ;
+    text-decoration: none;
+    color: white;
+    border-radius: 50px;
+    margin-left: 60px;
+    width: 150px;
+    text-align: center;
+    background-color: palevioletred;
+    font-size: 30px;
+}
+.btn4{
+    display: inline-block;
+    padding: 40px 100px ;
+    text-decoration: none;
+    color: white;
+    border-radius: 50px;
+    margin-left: 60px;
+    width: 150px;
+    text-align: center;
+    background-color: greenyellow;
+    font-size: 30px;
+}
+.btn5{
+    display: inline-block;
+    padding: 40px 100px ;
+    text-decoration: none;
+    color: white;
+    border-radius: 50px;
+    margin-left: 60px;
+    width: 150px;
+    text-align: center;
+    background-color: deepskyblue;
+    font-size: 30px;
+}
+.btn6{
+    display: inline-block;
+    padding: 40px 100px ;
+    text-decoration: none;
+    color: white;
+    border-radius: 50px;
+    margin-left: 60px;
+    width: 150px;
+    text-align: center;
+    background-color: orange;
+    font-size: 30px;
+}
+.btn7{
+    display: inline-block;
+    padding: 40px 100px ;
+    text-decoration: none;
+    color: white;
+    border-radius: 50px;
+    margin-left: 60px;
+    width: 150px;
+    text-align: center;
+    background-color: red;
+    font-size: 30px;
+}
+.wrap2{
+    margin-left: 320px;
+}
+.btn8{
+    display: inline-block;
+    padding: 40px 100px ;
+    text-decoration: none;
+    color: blue;
+    border-radius: 50px;
+    width: 150px;
+    text-align: center;
+    background-color: white;
+    font-size: 30px;
+    margin-left: -150px;
+    border: 5px solid blue;
+}
+.btn9{
+    display: inline-block;
+    padding: 40px 100px ;
+    text-decoration: none;
+    color: lightgreen;
+    border-radius: 50px;
+    margin-left: 50px;
+    width: 150px;
+    text-align: center;
+    background-color: white;
+    font-size: 30px;
+    border: 5px solid lightgreen;
+}
+.btn10{
+    display: inline-block;
+    padding: 40px 100px ;
+    text-decoration: none;
+    color: palevioletred;
+    border-radius: 50px;
+    margin-left: 50px;
+    width: 150px;
+    text-align: center;
+    background-color: white;
+    font-size: 30px;
+    border: 5px solid palevioletred;
+}
+.btn11{
+    display: inline-block;
+    padding: 40px 100px ;
+    text-decoration: none;
+    color: greenyellow;
+    border-radius: 50px;
+    margin-left: 50px;
+    width: 150px;
+    text-align: center;
+    background-color: white;
+    font-size: 30px;
+    border: 5px solid greenyellow;
+}
+.btn12{
+    display: inline-block;
+    padding: 40px 100px ;
+    text-decoration: none;
+    color: deepskyblue;
+    border-radius: 50px;
+    margin-left: 50px;
+    width: 150px;
+    text-align: center;
+    background-color: white;
+    font-size: 30px;
+    border: 5px solid deepskyblue;
+}
+.btn13{
+    display: inline-block;
+    padding: 40px 100px ;
+    text-decoration: none;
+    color: orange;
+    border-radius: 50px;
+    margin-left: 50px;
+    width: 150px;
+    text-align: center;
+    font-size: 30px;
+    background-color: white;
+    border: 5px solid orange;
+}
+.btn14{
+    display: inline-block;
+    padding: 40px 100px ;
+    text-decoration: none;
+    color: red;
+    border-radius: 50px;
+    margin-left: 50px;
+    width: 150px;
+    text-align: center;
+    background-color: white;
+    font-size: 30px;
+    border: 5px solid red;
+}

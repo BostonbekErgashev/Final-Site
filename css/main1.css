@@ -1,0 +1,68 @@
+body{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: white;
+}
+.navbar-menu{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.navbar-item{
+    display: inline-block;
+    padding: 24px 10px;
+    margin-right: 5px;
+}
+.navbar-item a{
+    text-decoration: none;
+    color: grey;
+}
+.navbar-item1{
+    display: flex;
+    margin-right: 200px;
+    width: 20px;
+    height: 20px;
+}
+.navbar-item:hover a{
+    color: grey;
+}
+.navbar-item:hover{
+    background-color: whitesmoke;
+}
+
+.navbar-item:after{
+    content: '';
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    background-image: url("../rasmlar/down-arrow.svg");
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: center  center;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+.navbar-item{
+    position: relative;
+}
+.drop-menu{
+    position: absolute;
+    left: 0;
+    top: 100%;
+    margin: 0;
+    padding: 0;
+    width: 120px;
+    background-color: whitesmoke;
+    display: none ;
+}
+.navbar-item:hover .drop-menu{
+    display: block;
+}
+.good{
+    width: 150px;
+    height: 100px;
+    margin-bottom: -85px;
+}
